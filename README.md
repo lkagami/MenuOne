@@ -73,5 +73,5 @@ Recepção de Pedidos:
 - Armazena no banco de dados e envia notificações para o front-end via WebSocket.
   
 Visualização e Atualização:
-- O front-end consome APIs REST ou GraphQL do back-end para listar e atualizar os pedidos.
+- O front-end consome APIs REST do back-end para listar e atualizar os pedidos.
 - Alterações são propagadas em tempo real com WebSocket.
